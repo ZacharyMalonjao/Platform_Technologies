@@ -6,7 +6,7 @@ The API-level cleaning is found in the filtered_datasets folder.
 The ETL-level cleaning is in the transformed_datasets folder.
 
 Each folder contains one Jupyter notebook containing the code, and three csvs that were modified as a result.
-
+```
 PLATFORM_TECHNOLOGIES/
 ├── filtered_datasets/
 │   ├── api_simulated_cleaning.ipynb
@@ -24,3 +24,4 @@ PLATFORM_TECHNOLOGIES/
 │   ├── trend_report_forecast.csv
 │   └── user_segments.csv
 └── README.md
+```
