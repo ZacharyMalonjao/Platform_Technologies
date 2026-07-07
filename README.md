@@ -1,7 +1,7 @@
 The Repository contains  4 folders, with the raw_dataset folder as the  main datasource. 
 Our data pipeline has 2 stages of cleaning, one is API-level cleaning and second is ETL-level cleaning.
 
-The API-level cleaning is found in the filtered_datasets folder.(The unhappy path version is in the failure_test folder)
+The API-level cleaning is found in the filtered_datasets folder.(The unhappy path version is in the failure_test folder. For teh sake of brevity, the failure_test folder does not have the scalability/ stress test, it will be found in the happy path (filtered_datasets) folder)
 
 The ETL-level cleaning is in the transformed_datasets folder.
 
